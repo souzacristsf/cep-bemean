@@ -33,7 +33,7 @@ Retorno em **Json**:
 
 ## Hosting Cloud
 <img src="/img/heroku.png" width="100" height="100">
-<img src="/img/mlab.png" width="100" height="100">
+<img src="/img/mlab.png" height="100">
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
