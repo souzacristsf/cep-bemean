@@ -25,9 +25,10 @@ Retorno em **Json**:
 ```
 
 ## Tecnologias Utilizadas
-![](/img/express.png) 
-![](/img/mongodb.png) 
-![](/img/nodejs.png)
+<!--![](/img/express.png) 
+![](/img/mongodb.png) -->
+<img src="/img/express.png" width="160" height="160">
+<img src="/img/mongodb.png" width="160" height="160">
 <img src="/img/nodejs.png" width="160" height="160">
 
 ## Hosting Cloud
