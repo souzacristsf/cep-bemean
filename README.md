@@ -28,7 +28,7 @@ Retorno em **Json**:
 ![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png)
 
 ## Hosting Cloud
-![](/img/mlab.svg) ![](/img/heroku.jpg)
+![](/img/heroku.jpg)
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
