@@ -24,8 +24,12 @@ Retorno em **Json**:
 }
 ```
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 ![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png)
+
+## Hosting Cloud
+![](/img/svg+xml.svg)
+![](/img/heroku.png)
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
