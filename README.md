@@ -25,7 +25,16 @@ Retorno em **Json**:
 ```
 
 ## Tecnologias Utilizadas
-![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png =1160x160)
+![](/img/express.png) 
+![](/img/mongodb.png) 
+![](/img/nodejs.png =1160x160)
+
+Here is an inline ![smiley](/img/nodejs.png){:height="36px" width="36px"}.
+
+And here is a referenced ![smile]
+
+[smile]: smile.png
+{: height="36px" width="36px"}
 
 ## Hosting Cloud
 ![](/img/heroku.png) ![](/img/mlab.png)
