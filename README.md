@@ -24,7 +24,7 @@ Retorno em **Json**:
 }
 ```
 
-## Tecnologias Utilizadas
+Tecnologias Utilizadas
 ![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png)
 
 ## CEP não encontrado ou retornamos um desatualizado?
