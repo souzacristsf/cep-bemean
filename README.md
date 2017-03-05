@@ -25,10 +25,10 @@ Retorno em **Json**:
 ```
 
 ## Tecnologias Utilizadas
-![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png)
+![](/img/express.png) ![](/img/mongodb.png) ![](/img/nodejs.png =1160x160)
 
 ## Hosting Cloud
-![](/img/heroku.png) ![](/img/mlab.png) ![](/img/nodejs.svg)
+![](/img/heroku.png) ![](/img/mlab.png)
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
