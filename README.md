@@ -36,7 +36,7 @@ Retorno em **Json**:
 <img src="/img/mlab.png" height="100">
 
 ## Próxima Implatação
-<img src="/img/redis.png" width="100" height="100">
+<img src="/img/redis.png">
 
 
 ## CEP não encontrado ou retornamos um desatualizado?
