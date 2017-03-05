@@ -25,7 +25,7 @@ Retorno em **Json**:
 ```
 
 ## Tecnologias Utilizadas
-![](empress.png)
+![](/img/empress.png)
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
