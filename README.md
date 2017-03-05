@@ -27,12 +27,13 @@ Retorno em **Json**:
 ## Tecnologias Utilizadas
 <!--![](/img/express.png) 
 ![](/img/mongodb.png) -->
-<img src="/img/express.png" width="160" height="160">
-<img src="/img/mongodb.png" width="160" height="160">
-<img src="/img/nodejs.png" width="160" height="160">
+<img src="/img/express.png" width="100" height="100">
+<img src="/img/mongodb.png" width="100" height="100">
+<img src="/img/nodejs.png" width="100" height="100">
 
 ## Hosting Cloud
-![](/img/heroku.png) ![](/img/mlab.png)
+<img src="/img/heroku.png" width="100" height="100">
+<img src="/img/mlab.png" width="100" height="100">
 
 ## CEP não encontrado ou retornamos um desatualizado?
 Contribua com esse projeto. Envie sua sugestão que analisaremos. 
